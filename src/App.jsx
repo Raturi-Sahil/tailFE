@@ -2,6 +2,8 @@
 import './App.css'
 import Navbar from './components/navbar'
 import Hero from './components/Hero'
+import Analytics from './components/Analytics'
+import NewsLetter from './components/NewsLetter'
 
 function App() {
 
@@ -9,6 +11,8 @@ function App() {
     <>
       <Navbar />
       <Hero />
+      <Analytics />
+      <NewsLetter />
     </>
   )
 }

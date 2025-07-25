@@ -20,7 +20,7 @@ function Hero() {
                 />
             </div>
             <p className='md:text-2xl text-xl font-bold text-gray-500'>Monitor your data analytics to increase revenue for BTB, BTC & SAAS platforms</p>
-            <button className='bg-[#00df9a] md:w-[200px] w-[120px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Get Started</button>
+            <button className='bg-[#00df9a] md:w-[200px] w-[120px] rounded-md font-medium my-6 mx-auto py-3 text-white-100'>Get Started</button>
         </div>
     </div>
   )
