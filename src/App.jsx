@@ -4,6 +4,9 @@ import Navbar from './components/navbar'
 import Hero from './components/Hero'
 import Analytics from './components/Analytics'
 import NewsLetter from './components/NewsLetter'
+import Cards from './components/Cards'
+import Footer from './components/Footer'
+
 
 function App() {
 
@@ -13,6 +16,8 @@ function App() {
       <Hero />
       <Analytics />
       <NewsLetter />
+      <Cards />
+      <Footer />
     </>
   )
 }
